@@ -1,4 +1,4 @@
-Unstructured logging package.
+Structured logging package.
 
 ## Example
 
